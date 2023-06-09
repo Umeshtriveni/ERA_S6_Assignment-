@@ -1,4 +1,4 @@
-# PART-1 ERA_S6_Assignment- Calculation for back-propogation
+# PART-1 Calculation for back-propogation
 
 # Neural Network Architecture`
 
